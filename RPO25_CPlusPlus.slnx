@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RPO25_CPlusPlus/RPO25_CPlusPlus.vcxproj" Id="5677b6f8-eeb6-450b-aae3-4adac0bf768e" />
+</Solution>
